@@ -1,7 +1,7 @@
 # Gemini API Postman Workspace
 
 <div align="center">
-  <img src="https://s.yimg.com/fz/api/res/1.2/IxLAfFMg_CgLgqu8l9eEzw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzMy/https://s.yimg.com/zb/imgv1/2404ede1-f764-3aa5-86d5-3bacae8af77e/t_500x300" alt="Gemini Logo" width="200"/>
+  <img src="https://vectorseek.com/wp-content/uploads/2022/07/Google-DeepMind-Logo-Vector.svg-.png" alt="Gemini Logo" width="200"/>
 
 [![API Version](https://img.shields.io/badge/API%20Version-v1-blue)](https://ai.google.dev/gemini-api/docs)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
