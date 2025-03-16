@@ -1,13 +1,15 @@
 # Gemini API Postman Workspace
 
 <div align="center">
-  <img src="https://vectorseek.com/wp-content/uploads/2022/07/Google-DeepMind-Logo-Vector.svg-.png" alt="Gemini Logo" width="200"/>
-
+ <img src="https://vectorseek.com/wp-content/uploads/2022/07/Google-DeepMind-Logo-Vector.svg-.png" 
+       alt="Gemini Logo" width="200" 
+       style="padding: 20px 0;"/>
+       
 [![API Version](https://img.shields.io/badge/API%20Version-v1-blue)](https://ai.google.dev/gemini-api/docs)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemini-postman-workspace?style=social)](https://github.com/google-deepmind/gemini-postman-workspace/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/adarsh-technocrat/gemini-postman-workspace?style=social)](https://github.com/google-deepmind/gemini-postman-workspace/stargazers)
 
 </div>
 
